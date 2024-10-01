@@ -1,0 +1,1 @@
+window.Futy={key:data.widget_code,meta:"wp: "+data.plugin_version},function(e,t){var a=e.createElement(t);a.async=!0;var n=window.Promise&&window.fetch?"modern.js":"legacy.js";a.src="https://v1.widget.futy.io/js/futy-widget-"+n;var i=e.getElementsByTagName(t)[0];i.parentNode.insertBefore(a,i)}(document,"script");
