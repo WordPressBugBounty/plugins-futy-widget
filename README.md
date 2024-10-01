@@ -1,0 +1,1 @@
+# plugins-futy-widget
