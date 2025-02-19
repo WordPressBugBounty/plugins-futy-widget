@@ -1,9 +1,9 @@
 === Futy.io Leadbots ===
-Tags: chat, whatsapp, widget, chatbot, leadbot, whatsapp business, form, dynamic form, click to chat, cta, bot, whatsapp support, chat bot
+Tags: whatsapp, leadbot, whatsapp business, whatsapp support, chatbot
 Text Domain: futy
-Stable tag: 2.0.7
+Stable tag: 2.0.9
 Requires at least: 1.5.1
-Tested up to: 6.4
+Tested up to: 6.7
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -139,3 +139,9 @@ We respect your privacy and only process your personal data for the purpose for 
 
 = 2.0.7 =
 * Update for Wordpress 6.4
+
+= 2.0.8 =
+* Update for Wordpress 6.7 and small bugfix for incorrect link in translation file
+
+= 2.0.9 =
+* Update stable version and tags

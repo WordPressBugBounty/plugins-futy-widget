@@ -32,7 +32,7 @@ msgid ""
 "also find there your personal Futy key that you can copy and add in the "
 "input field below."
 msgstr ""
-"In het <a href=“https://app.futy.io/implementation” target=“_blank”>Futy "
+"In het <a href="https://app.futy.io/implementation" target="_blank">Futy "
 "dashboard</a> kan je jouw eigen Leadbot of widget ontwerpen. Daar staat ook "
 "jouw persoonlijke Futy key die je kan kopiëren en hieronder kan toevoegen."
 
