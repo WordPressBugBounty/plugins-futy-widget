@@ -19,7 +19,7 @@ if ($wpLocale === 'nl_NL') {
 	<div class="futy-layout">
 		<div class="futy-settings">
 			<h2><?php echo esc_html(__('Settings', 'futy')); ?></h2>
-			<p><?php echo __('You can design your own Leadbot or WhatsApp widget in the <a href="https://app.futy.io/implementation" target="_blank">Futy dashboard</a>. You can also find there your personal Futy key that you can copy and add in the input field below.', 'futy'); ?></p>
+			<p><?php echo sprintf(__('You can design your own Leadbot or WhatsApp widget in the %s. You can also find there your personal Futy key that you can copy and add in the input field below.', 'futy'), '<a href="https://app.futy.io/implementation" target="_blank">Futy dashboard</a>'); ?></p>
 			<form method="post" action="#">
 				<?php wp_nonce_field('update-futy-options'); ?>
 

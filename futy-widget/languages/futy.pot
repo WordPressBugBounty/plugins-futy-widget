@@ -26,7 +26,7 @@ msgid "Settings"
 msgstr ""
 
 #: admin/options_form.php:15
-msgid "You can design your own Leadbot or WhatsApp widget in the <a href="https://app.futy.io/implementation" target="_blank">Futy dashboard</a>. You can also find there your personal Futy key that you can copy and add in the input field below."
+msgid "You can design your own Leadbot or WhatsApp widget in the %s. You can also find there your personal Futy key that you can copy and add in the input field below."
 msgstr ""
 
 #: admin/options_form.php:23

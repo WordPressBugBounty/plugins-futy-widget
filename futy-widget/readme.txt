@@ -1,7 +1,7 @@
 === Futy.io Leadbots ===
 Tags: whatsapp, leadbot, whatsapp business, whatsapp support, chatbot
 Text Domain: futy
-Stable tag: 2.0.9
+Stable tag: 2.0.10
 Requires at least: 1.5.1
 Tested up to: 6.7
 Requires PHP: 5.6
@@ -145,3 +145,6 @@ We respect your privacy and only process your personal data for the purpose for 
 
 = 2.0.9 =
 * Update stable version and tags
+
+= 2.0.10 =
+* Bugfix in translation file

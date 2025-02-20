@@ -3,7 +3,7 @@
 Plugin Name: Futy.io Leadbots
 Plugin URI: https://futy.io
 Description: Turn your website visitors into leads with the Futy Leadbot: WhatsApp Chat, E-mail Form, Request Quote Chatbot, Phone button, Callback request, Contact forms, Appointments, Link buttons to conversion pages, Schedule a video call, Dynamic forms, FAQ’s.
-Version: 2.0.9
+Version: 2.0.10
 Author: Futy
 Author URI: https://futy.io
 License: GPLv2 or later
@@ -29,7 +29,7 @@ if (! function_exists('add_action')) {
 /**
  * Plugin version
  */
-const VERSION = '2.0.9';
+const VERSION = '2.0.10';
 
 /**
  * Uninstall of plugin.
